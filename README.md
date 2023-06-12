@@ -1,4 +1,13 @@
-### Hi there 👋
+<h2> Bem Vndo ao meu Repositório GitHub</h2>
+<hr>
+Turma 20210076 - Técnico em Informática
+
+👏👏👏👏👏👏👏👏👏👏
+
+[Meu Youtube](https://www.youtube.com/channel/UCwXmqOnH-GvjLVxUBWl82mA)
+
+<hr>
+FIM
 
 <!--
 **Terkelli/Terkelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
